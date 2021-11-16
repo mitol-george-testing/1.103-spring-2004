@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "bb30c9e8-5723-fd56-be22-7cd9ba2bef6e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Civil Engineering Materials Laboratory",
+  "course_description": "This course introduces the concepts, techniques, and devices used to measure engineering properties of materials. There is an emphasis on measurement of load-deformation characteristics and failure modes of both natural and fabricated materials. Weekly experiments include data collection, data analysis, and interpretation and presentation of results.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.103",
+  "learning_resource_types": [
+    "Demonstration Videos"
+  ],
+  "title": "Course Metadata"
+}
